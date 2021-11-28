@@ -1,11 +1,11 @@
 package main
 
 import (
-  "fmt"
+	"fmt"
 
-  "github.com/ethereum/go-ethereum/common"
-  "github.com/ethereum/go-ethereum/ethclient"
-  flashLoan "github.com/zant/flash-loan/abigen/FlashLoan"
+	"github.com/ethereum/go-ethereum/common"
+	"github.com/ethereum/go-ethereum/ethclient"
+	flashLoan "github.com/zant/flashloan/abigen/FlashLoan"
 )
 
 const contractAddress = "0xceb05c38a87c5c4df3dbb5e1934d144dac98e67f"

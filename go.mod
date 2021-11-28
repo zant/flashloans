@@ -1,4 +1,4 @@
-module github.com/zant/flash-loan
+module github.com/zant/flashloan
 
 go 1.16
 
